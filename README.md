@@ -22,6 +22,6 @@ dk-deployment-expose-internet  dk-jenkins                     dk-pods           
 
 #### Why the dk prefix
 
-* Because there wasn't any exiting mappings on OSX for it (i.e. d+k+tab produces no results)
+* Because there wasn't any existing mappings on OSX for it (i.e. d+k+tab produces no results)
 * the two letters are easy to type (d on the left and k on the right, followed by tab on the left)
 * dk can represent docker-kubernetes
